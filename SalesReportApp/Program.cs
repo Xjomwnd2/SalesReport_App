@@ -3,7 +3,7 @@ using System.IO;
 using System.Text;
 using System.Globalization;
 
-public class SalesReportGenerator
+public class SalesReportGenerator 
 {
     public static void GenerateSalesReport(string salesDirectory, string reportFilePath)
     {
