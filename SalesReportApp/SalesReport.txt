@@ -1,0 +1,8 @@
+Sales Summary
+----------------------------
+ Total Sales: Ksh17,103.00
+
+ Details:
+  february_sales.txt: Ksh5,551.00
+  january_sales.txt: Ksh5,001.25
+  march_sales.txt: Ksh6,550.75
